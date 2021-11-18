@@ -1,0 +1,418 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+.menu ul li {
+    padding: 10px 20px !important;
+}
+.menu ul li a{
+	font-size:16px;
+    display: inline;
+ }
+.menu ul li:hover a{
+	border-top:none;
+    border-bottom:none;  
+    color: #010101!important;  
+}
+.menu{
+	background:#fca311;
+}
+	/*banner start*/
+.bg{
+    min-height:300px;
+}
+.banner{
+    padding-top:80px ;
+}
+.banner-text{
+    text-align: center;
+}
+.banner-text h2{
+	font-size:25px;
+}
+.banner-text  h1{
+	font-size:25px;
+}
+.c-btn{
+	font-size: 14px
+}
+.common-p{
+	color:#fca311!important; 
+}
+/*about start*/
+.about{
+    padding:40px  0;
+}
+.about-second-row{
+	padding-top:10px;
+}
+.title h2{
+	font-size:28px;
+	word-spacing:0px;
+}
+.title h6{
+	font-size:18px;
+    word-spacing:0px;
+}
+.about-img{
+	border:none;
+}
+.about-img  img{
+	padding:10px;
+}
+.about-text{
+	padding:20px  0   0px 10px;
+}
+.about-text h3{
+	font-size:25px;
+}
+.about-text p{
+    font-size:16px!important;
+}
+.social-p{
+	padding: 12px!important;
+}
+.a-btn{
+	padding: 18px 17px;
+}
+/*ability start*/
+.ability-text{
+	padding-top:60px;
+	padding-right:25px;
+}
+.ability-right{
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+.ability-progress {
+    width:335px;
+}
+/*portfolio start*/
+.portfolio{
+     padding-top:60px;
+     padding-bottom:60px;
+}
+.portfolio-list ul li {
+	font-size:17px;
+}
+/*testimonial  start*/
+.testtimonial-slider{
+	padding-top:30px;
+	padding-bottom:30px; 
+}
+.testtimonial-slider p{
+	font-size:16px;
+    padding-top:20px;
+}
+/*counter start*/
+.counter{
+	padding-top:20px;
+	padding-bottom:10px;
+}
+.single-counter{
+    padding-top:20px;
+    padding-bottom:10px;
+}
+.single-counter p{ 
+    font-size:16px;
+}
+/*contact start*/
+.contact{
+	padding-bottom:30px;
+}
+.contact-btn{
+	padding: 8px 10px;
+}
+.form-border{
+	border:none;
+	margin-top:15px;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+		/*header start*/
+.menu ul li {
+    padding: 10px 20px !important;
+}
+.menu ul li a{
+	font-size:16px;
+    display: inline;
+ }
+.menu ul li:hover a{
+	border-top:none;
+    border-bottom:none;  
+    color: #010101!important;  
+}
+.menu{
+	background:#fca311;
+}
+	/*header end*/
+		/*banner start*/
+.bg{
+    min-height:300px;
+}
+.banner{
+	
+    padding-top:80px ;
+}
+.banner-text{
+    text-align: center;
+}
+.banner-text h2{
+	font-size:25px;
+}
+.banner-text  h1{
+	font-size:25px;
+}
+.common-p{
+	color:#fca311!important; 
+}
+/*about start*/
+.about{
+    padding:40px  0;
+}
+.about-second-row{
+	padding-top:10px;
+}
+.title h2{
+	font-size:28px;
+	word-spacing:0px;
+}
+.title h6{
+	font-size:18px;
+    word-spacing:0px;
+}
+.about-img{
+	border:none;
+}
+.about-img  img{
+	padding:10px;
+}
+.about-text{
+	padding:20px  0   0px 10px;
+}
+.about-text h3{
+	font-size:25px;
+}
+.about-text p{
+    font-size:18px!important;
+}
+.social-p{
+	padding: 12px!important;
+}
+
+/*about end*/
+/*ability start*/
+.ability-text{
+	padding-top:60px;
+	padding-right:25px;
+}
+.ability-right{
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+.ability-progress {
+    width:500px;
+}
+/*portfolio start*/
+.portfolio{
+     padding-top:60px;
+     padding-bottom:60px;
+}
+/*testimonial  start*/
+.testtimonial-slider{
+	padding-top:30px;
+	padding-bottom:30px; 
+}
+.testtimonial-slider p{
+	font-size:16px;
+    padding-top:20px;
+}
+/*counter start*/
+.counter{
+	padding-top:20px;
+	padding-bottom:10px;
+}
+.single-counter{
+    padding-top:20px;
+    padding-bottom:10px;
+}
+.single-counter p{ 
+    font-size:16px;
+}
+/*contact start*/
+.contact{
+	padding-bottom:30px;
+}
+.contact-btn{
+	padding: 8px 10px;
+}
+.form-border{
+	border:none;
+	margin-top:15px;
+}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+			/*header start*/
+.menu ul li {
+    padding: 10px 20px !important;
+}
+.menu ul li a{
+	font-size:15px;
+    display: inline;
+ }
+.menu ul li:hover a{
+	border-top:none;
+    border-bottom:none;  
+    color: #010101!important;  
+}
+.menu{
+	background:#fca311;
+}
+	/*header end*/
+			/*banner start*/
+.bg{
+    min-height:300px;
+}
+.banner{
+    padding-top:100px ;
+    padding-bottom: 30px;
+}
+.banner-text{
+    text-align: center;
+}
+.banner-text h2{
+	font-size:30px;
+}
+.banner-text  h1{
+	font-size:30px;
+}
+.common-p{
+	color:#fca311!important; 
+}
+/*about start*/
+.about{
+    padding:50px  0;
+}
+.about-second-row{
+	padding-top:20px;
+}
+.title h2{
+	font-size:28px;
+	word-spacing:0px;
+}
+.title h6{
+	font-size:18px;
+    word-spacing:0px;
+}
+.about-img{
+	text-align: center;
+	border:none;
+}
+.about-img  img{
+	width: 80%;
+	padding:10px;
+}
+.about-text{
+	padding:20px  0   0px 10px;
+}
+.about-text h3{
+	font-size:25px;
+}
+.about-text p{
+    font-size:18px!important;
+}
+.social-p{
+	padding: 12px!important;
+}
+/*ability start*/
+.ability-text{
+	padding-top:60px;
+	
+}
+.ability-right{
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+
+/*ability end*/
+
+/*about end*/
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+				/*banner start*/
+.bg{
+    min-height:300px;
+}
+.banner{
+    padding-top:130px ;
+    padding-bottom:50px;
+}
+.banner-text{
+    text-align: center;
+}
+.banner-text h2{
+	font-size:40px;
+}
+.banner-text  h1{
+	font-size:40px;
+}
+.common-p{
+	color:#fca311!important; 
+}
+/*about start*/
+.about-text{
+	padding:0px  0  0px  20px;
+}
+.about-img {
+    margin-top: 25px;
+
+}
+.about-second-row{
+	padding-top:30px;
+}
+/*about end*/
+/*service start*/
+.single-service{
+	padding:40px  15px  0  15px;
+}
+/*service end*/
+/*ability start*/
+.ability-text{
+	padding-top:40px;
+	padding-right:22%;
+}
+.ability-right{
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+.ability-progress {
+    width:484px;
+}
+/*ability end*/
+/*portfolio start*/
+.portfolio-list ul li {
+	font-size:17px;
+}
+/*contact start*/
+.contact-btn{
+	font-size: 16px;
+}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+.about-text{
+	padding:80px  0  0px  20px;
+}
+}
